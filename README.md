@@ -4,6 +4,7 @@
 2. Naviagtion
 3. Timer
 4. Countdown
+5. Clock
 
 #### Styles:
 1. Custome SCSS
